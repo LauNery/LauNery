@@ -1,4 +1,16 @@
-# 👋 Olá! Eu sou **Laura Nery**  
+# 🌟✨ **Olá! Eu sou a Laura Nery** ✨🌟
+
+---
+
+## 🤝 Vamos nos conectar!
+
+Sinta-se à vontade para entrar em contato ou trocar ideias. Adoro aprender com profissionais incríveis como você!  
+
+[LinkedIn](https://www.linkedin.com/in/laura-nery-lon1999/) | [GitHub](https://github.com/LauNery) | ✉️ laura.olivernery@gmail.com
+
+---
+
+*Obrigada por visitar meu perfil! Espero que possamos colaborar em breve.* 💖
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ca944496-d147-431a-bb10-3718b0b0b9bf" alt="Foto de Perfil" width="220" style="border-radius:50%; border:6px double #2196F3; box-shadow: 0 4px 12px rgba(0,0,0,0.3); border: 8px solid #4CAF50; padding: 5px;"/>
@@ -9,7 +21,7 @@
 ## ✨ Sobre mim
 
 Sou novata na área de tecnologia, com muita vontade de aprender e crescer profissionalmente.  
-Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma carreira próspera e longa.
+Estou em transição de carreira: vindo do setor financeiro/comercial, busco novas oportunidades no universo tech para construir uma carreira próspera e longa. 🚀✨
 
 > 💡 *"Sonhos determinam o que você quer. Ação determina o que você conquista."* — Aldo Novak
 
