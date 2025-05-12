@@ -63,5 +63,6 @@ Sinta-se à vontade para me enviar uma mensagem — será um prazer conversar co
 
 ## 🙏 Agradeço por visitar meu perfil!
 
-  ![image](https://github.com/user-attachments/assets/693a92ab-1e19-48e2-a713-0ab2b8e44294)
+  ![Panfleto GitHub](https://github.com/user-attachments/assets/5d2c6025-c256-4cd0-82b7-43f5aeded357)
+
    
