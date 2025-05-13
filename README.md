@@ -26,7 +26,7 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | ![MySQL](https://github.com/user-attachments/assets/06f34601-100e-4025-bf10-8f68efabd446) | **MySQL** | Banco de dados relacional para armazenamento eficiente. |
 | :--: | :--: | :------------------------------------------------------------: |
 
-| ![Git](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f) | **Git & Version Control** | Controle de versões para colaborar e manter o código organizado. |
+| ![Git](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f) | **Git** | Controle de versões para colaborar e manter o código organizado. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
 ---
