@@ -29,6 +29,15 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | ![Git](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f) | **Git** | Controle de versões para colaborar e manter o código organizado. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
+🌐 **HTML**  
+Construo a estrutura e semântica de páginas web, garantindo acessibilidade e organização.
+
+🎨 **CSS**  
+Crio o design visual e estilos para tornar os sites atraentes e responsivos, usando Flexbox, Grid e técnicas modernas.
+
+📝 **Visual Studio Code**  
+Meu editor favorito para programar, depurar e gerenciar projetos com extensões que aumentam minha produtividade.
+
 ---
 
 ## 🎯 Meu objetivo
