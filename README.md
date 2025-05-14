@@ -29,14 +29,15 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | ![Git](https://github.com/user-attachments/assets/7574bb57-ecde-40f0-99ee-7d51c11f590f) | **Git** | Controle de versões para colaborar e manter o código organizado. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
+| ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | **Visual Studio Code** | Editor para programar, depurar e gerenciar projetos com extensões que aumentam minha produtividade. |
+| :--: | :--: | :--------------------------------------------------------------: |
+
 | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | **HTML** | Construção de estrutura e semântica de páginas web, garantindo acessibilidade e organização. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | **CSS** | Cria o design visual e estilos para tornar os sites atraentes e responsivos, usando Flexbox, Grid e técnicas modernas. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
-| ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | **Visual Studio Code** | Editor para programar, depurar e gerenciar projetos com extensões que aumentam minha produtividade. |
-| :--: | :--: | :--------------------------------------------------------------: |
 ---
 
 ## 🎯 Meu objetivo
