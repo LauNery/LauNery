@@ -38,6 +38,9 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | **CSS** | Cria o design visual e estilos para tornar os sites atraentes e responsivos, usando Flexbox, Grid e técnicas modernas. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **JavaScript** | Linguagem de programação para o desenvolvimento web, permitindo criar páginas interativas e dinâmicas. |
+| :--: | :--: | :--------------------------------------------------------------: |
+
 ---
 
 ## 🎯 Meu objetivo
