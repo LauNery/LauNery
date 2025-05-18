@@ -69,7 +69,7 @@ Sinta-se à vontade para entrar em contato — será um prazer conversar com tod
 ## 🎉 Curiosidades
 
 ✨ Amo artes marciais: pratico boxe há anos.  
-🎸 Sou roqueira: adoro festivais e shows de várias genêros musicais também .  
+🎸 Sou roqueira: adoro festivais e shows de Rock, mas curto outros genêros musicais também .  
 ✈️ Viajar e explorar novos lugares é minha paixão.
 
 ---
