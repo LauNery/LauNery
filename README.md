@@ -55,6 +55,7 @@ Estou aberta a novas oportunidades na área de tecnologia para evoluir profissio
 [![LinkedIn](https://cdn-icons-png.flaticon.com/64/174/174857.png)](https://www.linkedin.com/in/laura-nery-lon1999/) &nbsp; 
 [![GitHub](https://cdn-icons-png.flaticon.com/64/733/733553.png)](https://github.com/LauNery) &nbsp; 
 [![Gmail](https://cdn-icons-png.flaticon.com/64/281/281769.png)](mailto:laura.olivernery@gmail.com)
+[![WhatsApp](https://cdn-icons-png.flaticon.com/64/733/733585.png)](https://wa.me/5511959937930)
 
 ---
 
