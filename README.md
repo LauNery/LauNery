@@ -42,6 +42,7 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | :--: | :--: | :--------------------------------------------------------------: |
 
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **TypeScript** | Superset do JavaScript que adiciona tipagem estática e recursos avançados para desenvolvimento mais robusto. |
+| :--: | :--: | :--------------------------------------------------------------: |
 
 ---
 
