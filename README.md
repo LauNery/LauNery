@@ -41,7 +41,7 @@ Estou em transição de carreira: vindo do setor financeiro/comercial, busco nov
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | **JavaScript** | Linguagem de programação para o desenvolvimento web, permitindo criar páginas interativas e dinâmicas. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **TypeScript** | Superset do JavaScript que adiciona tipagem estática e recursos avançados para desenvolvimento mais robusto. |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | **TypeScript** | Linguagem de programação que estende o JavaScript que adiciona tipagem estática e recursos avançados para desenvolvimento mais robusto. |
 | :--: | :--: | :--------------------------------------------------------------: |
 
 ---
